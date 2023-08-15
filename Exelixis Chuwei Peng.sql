@@ -506,9 +506,3 @@ FROM exelixis_universe.metastatic_patient_cp
 
 SELECT *
 FROM exelixis_universe.test
-
--- COMMAND ----------
-
-SELECT 
-FROM exelixis_universe.dtc_mx_patients
-WHERE 
